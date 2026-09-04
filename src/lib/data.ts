@@ -2,7 +2,7 @@ export const SITE_URL = "https://festincinejp.com.br";
 export const SITE_NAME = "Festin Cine JP IPTV";
 export const WHATSAPP_NUMBER = "5589981175065";
 export const CONTACT_EMAIL = "contato@festincinejp.com.br";
-export const GA_MEASUREMENT_ID = "G-XXXXXXXXXX";
+export const GA_MEASUREMENT_ID = "G-G4D63CWSC7";
 
 export const TESTE_GRATIS_MSG = "Olá! Quero solicitar o teste grátis da Festin Cine JP IPTV.";
 
